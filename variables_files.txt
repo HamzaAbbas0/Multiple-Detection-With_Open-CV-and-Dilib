@@ -1,0 +1,1 @@
+{"face":"FaceDetection","smile":"keepSmiling","glasses":"Seems To Be Sunny","closedeyes":"Please Open Your Eyes","sleeping":"WakeUp","laughing":"Laughter is a good medicine","boxcolorgreen" : "green","boxcolorred" : "red","textcolor" :"green"}
